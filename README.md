@@ -1,3 +1,5 @@
+![Testes QA](https://github.com/gusjmo/qa-calculadora/actions/workflows/tests.yml/badge.svg)
+
 # QA - Testes Automatizados de Calculadora
 
 Projeto de testes automatizados desenvolvido com **Pytest** para demonstrar
