@@ -1,2 +1,3 @@
 pytest
 echo "pytest-html" >> requirements.txt
+pytest-html
